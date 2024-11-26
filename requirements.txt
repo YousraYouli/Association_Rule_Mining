@@ -1,0 +1,6 @@
+pandas
+pickle
+ydata_profiling
+apyori
+streamlit
+streamlit-reveal-slides
